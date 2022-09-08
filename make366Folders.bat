@@ -1,1 +1,1 @@
-Powershell.exe -executionpolicy remotesigned -File  .\controller.ps1 1 366
+Powershell.exe -executionpolicy remotesigned -File  .\makeFoldersInRange.ps1 1 366
